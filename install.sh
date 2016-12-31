@@ -1,1 +1,1 @@
-sudo sh ~/Downloads/crouton -r stretch -t extension,xiwi
+sudo sh ~/Downloads/crouton -r stretch -t xiwi
