@@ -9,3 +9,5 @@ To install Debian (stretch) in a chroot with support for "X in a Window", run
 ```
 sudo sh ~/Downloads/crouton -r stretch -t xiwi
 ```
+
+Wait for a long time.
